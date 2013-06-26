@@ -22,6 +22,7 @@ THE SOFTWARE.
 
 ------
 
-The other stipulation of this license is that nobody may publish the Novel in a tangible, real, analog format. You're absolutely free to make digital copies of
+The other stipulation of this license is that nobody may publish the Novel in a
+tangible, real, analog format. You're absolutely free to make digital copies of
 the Novel - I have a plan for a good publishing/charity idea in the works as well.
 On that note, do not sell this work either - as it is neither entirely yours nor mine.
